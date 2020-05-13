@@ -1,37 +1,17 @@
 # Jesnine Erillo
+**Under construction.**
 
-You can use the [editor on GitHub](https://github.com/jerillo/jerillo.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Education
+- **University of California, Berkeley**, *August 2019 - Present*
+  - B.S. in Electical Engineering and Computer Science, *Expected May 2021*   
+  - Overall GPA: 3.33 
+  - Relevant courses:
+    - **CS 170**: Efficient Algorithms and Intractable Problems
+    - **CS 70**: Discrete Mathematics and Probability Theory
+    - **CS 61B**: Data Structures
+    - **CS 61A**: The Structure and Interpretatoin of Computer Programs 
+    - **EECS 16A**: Designing Information Devices and Systems I
+    - **EECS 16B**: Designing Information Devices and Systems II
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerillo/jerillo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **Mount San Antonio College**, *August 2017 - June 2019*  
+   - Overall GPA: 4.00
