@@ -11,7 +11,6 @@ permalink: /projects/
 
 *Code can be provided upon request.*
 
-
 **TODO: add images**
 
 --- 

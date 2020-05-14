@@ -21,6 +21,7 @@ url: "https://jerillo.github.io" # the base hostname & protocol for your site, e
 twitter_username: ''
 github_username: 'jerillo'
 medium_username: ''
+linkedin_username: 'jerillo'
 
 # Build settings
 markdown: kramdown
