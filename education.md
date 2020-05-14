@@ -3,10 +3,10 @@ layout: inner
 title: Education
 permalink: /education/
 ---
-# Education
+# Education 
 
-## University of California, Berkeley
-##### August 2019 - Present
+## University of California, Berkeley 
+##### August 2019 - Present 
   - B.S. in Electical Engineering and Computer Science, *Expected May 2021*   
   - **Relevant courses:**
     - **CS 170**: Efficient Algorithms and Intractable Problems
