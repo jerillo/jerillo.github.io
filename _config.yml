@@ -25,7 +25,7 @@ linkedin_username: 'jerillo'
 
 # Build settings
 markdown: kramdown
-theme: phantom # Uncomment once published to RubyGems
+remote-theme: jerillo/phantom # Uncomment once published to RubyGems
 plugins:
   - jekyll-paginate-v2
 
