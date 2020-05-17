@@ -1,4 +1,4 @@
 # Jesnine Erillo
 **Under construction.**
 
-Personal website using [Phantom](https://github.com/jamigibbs/phantom) theme.
+Personal website highlighting some projects that I have worked on.

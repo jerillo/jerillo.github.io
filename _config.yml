@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Hello. I'm Jesnine Erillo."
 email: 'jesnineerillo@berkeley.edu'
-description: "I'm an Electrical Engineering and Computer Science student at UC Berkeley expecting to graduate in May 2021."
+description: "I'm a student at UC Berkeley majoring in Electrical Engineering and Computer Science expecting to graduate in May 2021."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jerillo.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -35,7 +35,7 @@ plugins:
 pagination:
   
   # Site-wide kill switch, disabled here it doesn't run at all 
-  enabled: true
+  enabled: false
 
   # Set to 'true' to enable pagination debugging. This can be enabled in the site config or only for individual pagination pages
   debug: false

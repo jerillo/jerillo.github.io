@@ -11,8 +11,8 @@ permalink: /education/
   - **Relevant courses:**
     - **CS 170**: Efficient Algorithms and Intractable Problems
     - **CS 70**: Discrete Mathematics and Probability Theory
+    - **CS 61A**: The Structure and Interpretation of Computer Programs 
     - **CS 61B**: Data Structures
-    - **CS 61A**: The Structure and Interpretatoin of Computer Programs 
     - **EECS 16A**: Designing Information Devices and Systems I
     - **EECS 16B**: Designing Information Devices and Systems II
 
