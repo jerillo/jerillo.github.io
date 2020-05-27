@@ -14,6 +14,7 @@ Jump to specific type of projects:
 ---
 
 ## School-Projects  
+These are some of the projects that I've worked on as part of classes.
 
 ### [Gitlet](/gitlet)
 ##### May 2020 - Java
@@ -39,9 +40,9 @@ A two-person zero-sum game that can be played against AI designed using the mini
 ##### March 2020 - Java 
 An implementation of the Enigma machines, which encodes or decodes messages. [Read More](/enigma).        
 
-*Source code can be provided upon request.* 
+*Source code can be provided upon request.*     
 
-<!-- add images -->
+[![Enigma Preview](../img/preview/enigma/screenshot.png)](/enigma)  
 
 --- 
 
@@ -56,6 +57,7 @@ An implementation of an interpreter for the Scheme programming language. [Read M
 ---
 
 ## Personal Projects
+These are some of the projects that I've been working on in my spare time or at hackathons.
 
 ### [Movie Recommendation System](https://github.com/jerillo/movie-recommendation-system){:target="_blank"}
 ##### May 2020 - Node.js, Express, MongoDB, HTML, CSS, Javascript
@@ -64,7 +66,7 @@ CRUD web app allowing users authenticated with Passport.js to search and rate mo
 *View on [GitHub](https://github.com/jerillo/movie-recommendation-system){:target="_blank"}.* 
 *View [Live Site](https://movie-journal.herokuapp.com/){:target="_blank"}.*
 
-[![Movie Recommendation System Preview](../img/movie-recs-system/results-page.png)](https://movie-journal.herokuapp.com/){:target="_blank"}
+[![Movie Recommendation System Preview](../img/preview/movie-recs-system/results-page.png)](https://movie-journal.herokuapp.com/){:target="_blank"}
 
 ---
 
