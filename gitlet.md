@@ -21,6 +21,7 @@ Some functionality of Gitlet include:
 - Maintain related sequences of commits in branches
 - Merge changes made in one branch into another
 - Simplified implementation of Git's remote features
+- Wrote unit tests and integration tests to ensure quality of the application
 
 --- 
 
