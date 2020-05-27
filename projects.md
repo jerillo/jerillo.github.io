@@ -13,7 +13,7 @@ Jump to specific type of projects:
 
 ---
 
-## School-Projects  
+## School Projects  
 These are some of the projects that I've worked on as part of classes.
 
 ### [Gitlet](/gitlet)
