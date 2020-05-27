@@ -52,7 +52,7 @@ An implementation of an interpreter for the Scheme programming language. [Read M
 
 *Source code can be provided upon request.* 
 
-<!-- add images -->
+[![Scheme Preview](../img/preview/scheme/scheme.png)](/scheme)
 
 ---
 

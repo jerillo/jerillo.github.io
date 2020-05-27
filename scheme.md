@@ -15,10 +15,20 @@ This project was created for UC Berkeley's CS 61A: Structure and Interpretation 
 
 ## Features
 Some functionality of this Scheme interpreter include:    
-- Reads Scheme expressions
-<!-- add features** -->
+- Reads Scheme expressions by parsing user inputand analyzing both syntactically and lexically.
+- Evaluates Scheme expressions to obtain appropriate values.
+- Optimized interpreter by allowing an unbounded number of active tail calls in constant space.
+- Implemented Scheme expressions include: 
+    - symbol evaluation
+    - calls to built-in procedures 
+    - definitions
+    - lambda expressions and procedure definition
+    - calling user-defined procedures
+    - evaluation of special forms
+    - dynamic scoped procedures
+    - macros
 
 --- 
 
 ## Preview
-<!-- ÷Add images -->
+![Preview](../img/preview/scheme/preview.gif)
