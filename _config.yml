@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hello. I'm Jesnine Erillo."
+title: "Jesnine Erillo"
 email: 'jesnineerillo@berkeley.edu'
-description: "I'm a student at UC Berkeley majoring in Electrical Engineering and Computer Science expecting to graduate in May 2021."
+description: "Hello! I'm an undergraduate student at UC Berkeley majoring in Electrical Engineering and Computer Science expecting to graduate in December 2021."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jerillo.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: ''
@@ -93,7 +93,7 @@ pagination:
 footer_text: ''
 admin_name: 'Jesnine Erillo'
 google_analytics: "UA-166622116-1" # Update with your own tracking ID
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
