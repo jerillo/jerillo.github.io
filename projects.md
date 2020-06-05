@@ -8,12 +8,12 @@ Here are some of the projects that I've been working on!
 
 
 Jump to specific type of projects:
-- [School Projects](#school-projects)
+- [Course Projects](#course-projects)
 - [Personal Projects](#personal-projects)
 
 ---
 
-## School Projects  
+## Course Projects  
 These are some of the projects that I've worked on as part of classes.
 
 ### [Gitlet](/gitlet)
@@ -59,7 +59,7 @@ An implementation of an interpreter for the Scheme programming language. [Read M
 ## Personal Projects
 These are some of the projects that I've been working on in my spare time or at hackathons.
 
-### [Movie Recommendation System](https://github.com/jerillo/movie-recommendation-system){:target="_blank"}
+### [Movie Journal](https://github.com/jerillo/movie-recommendation-system){:target="_blank"}
 ##### May 2020 - Node.js, Express, MongoDB, HTML, CSS, Javascript
 CRUD web app allowing users authenticated with Passport.js to search and rate movies through OMDb REST API. Deployed on Heroku.
 
