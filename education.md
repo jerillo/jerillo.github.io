@@ -13,7 +13,7 @@ permalink: /education/
       - **CS 161** Computer Security
       - **CS 169A** Software Engineering
       - **CS 186** Database Systems
-    - ***(In Progress)* Summer 2020:**
+    - **Summer 2020:**
       - **CS 61C** Machine Structures
     - **Spring 2020:**
       - **CS 170** Efficient Algorithms and Intractable Problems
