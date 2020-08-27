@@ -9,7 +9,7 @@ permalink: /education/
 ##### August 2019 - Present 
   - B.S. in Electical Engineering and Computer Science, *Expected December 2021*   
   - **Relevant courses:**
-    - ***(Planned)* Fall 2020:**
+    - ***(In progress)* Fall 2020:**
       - **CS 161** Computer Security
       - **CS 169A** Software Engineering
       - **CS 186** Database Systems
