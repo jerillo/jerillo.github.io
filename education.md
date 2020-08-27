@@ -13,6 +13,7 @@ permalink: /education/
       - **CS 161** Computer Security
       - **CS 169A** Software Engineering
       - **CS 186** Database Systems
+      - **DATA 100** Principles and Techniques of Data Science
     - **Summer 2020:**
       - **CS 61C** Machine Structures
     - **Spring 2020:**
